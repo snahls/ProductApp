@@ -14,9 +14,9 @@ c) Go to CMD and enter the commands:
 d) Open another cmd and type the command: java-jar -Dserver.port:8080 ProductRESTApp-0.01-SNAPSHOT.jar
 
 e) Now you can see the final output in the browser http://localhost:4000 with following:
-      1)By Using Class Components
-      2)By Using Functional Components
-      3)By Using Functional Components + Redux
-      4)By Using Functional Components + Redux + RestApi axios
-      5)By Using Functional Components + Redux + RestApi axios + Routing
+      1)  By Using Class Components
+      2)  By Using Functional Components
+      3)  By Using Functional Components + Redux
+      4)  By Using Functional Components + Redux + RestApi axios
+      5)  By Using Functional Components + Redux + RestApi axios + Routing
 
