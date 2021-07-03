@@ -1,6 +1,6 @@
 MY REACT PROJECT : Product Application with CRUD operations
 
-Steps to follow:
+Follow the steps below to run my react project:
 
 a) Create a new react project locally using the command: npx create-react-app product-app
 
@@ -14,7 +14,7 @@ c) Go to CMD and enter the commands:
       
       3)  npm start
       
-d) Open another cmd and type the command: java-jar -Dserver.port:8080 ProductRESTApp-0.01-SNAPSHOT.jar
+d) Open another cmd and type the command: java-jar -Dserver.port:8080 ProductRESTApp-0.01-SNAPSHOT.jar (or) Run the jar file directly
 
 e) Now you can see the final output in the browser http://localhost:4000 with following:
 
